@@ -14,7 +14,6 @@ def find_max_value(array)
       x = array[index]
       return x
     end
-    count += 1
   end
 end
 
